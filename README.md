@@ -4,12 +4,12 @@
 
 <div align="center">
   
-💗 Estudante no curso de Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS). 
+🐝 Estudante no curso de Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS). 
 
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=naylane&theme=omni&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=naylane&theme=omni&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=naylane&theme=omni&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naylane&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 Nome | Emblema
