@@ -5,8 +5,8 @@
 <div align="center">
   
   <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=naylane&theme=omni&hide_border=true&include_all_commits=false&count_private=false" />
-  <img width="49%" height="195px" src= "https://github-readme-streak-stats.herokuapp.com/?user=naylane&theme=omni&hide_border=true" /> 
-  <img width="35%;" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=naylane&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="49%" height="200px" src= "https://github-readme-streak-stats.herokuapp.com/?user=naylane&theme=omni&hide_border=true" /> 
+  <img width="40%;" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=naylane&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   
 </div>
 
